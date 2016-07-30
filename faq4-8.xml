@@ -1,0 +1,278 @@
+<help>
+    <section label="Mobile Banking Basics" linkItemType="MOBILE_BANKING_BASICS">
+        <entry>
+            <question>
+                I’ve enrolled in Mobile Banking through the app, how do I add my other accounts?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help9.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Can I use Mobile Banking while logged into Online Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help7.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How can I send a secure message regarding an account?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help27.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Need assistance with Mobile Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help8.html
+            </answer>
+        </entry>
+    </section>	
+    <section label="Accounts" linkItemType="STATEMENTS_ACCOUNTS">
+        <entry>
+            <question>
+                What balances are shown in the Accounts Section?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help1.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How can I activate my new BBVA Compass Credit Card in Mobile Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help26.html
+            </answer>
+        </entry>
+    </section>
+    <section label="Security Settings" linkItemType="SECURITY_SETTINGS">
+        <entry>
+            <question>
+                How do I set up Fingerprint Authentication for Mobile Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help28.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How do I set up Touch ID for the Mobile Banking App?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help29.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How do I use the Quick View feature in Mobile Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help24.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Help! I’ve misplaced my mobile device. How can I disable Quick View or Touch ID?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help25.html
+            </answer>
+        </entry>
+    </section>
+    <section label="Payments &amp; Transfers" linkItemType="PAYMENT_TRANSFERS">
+        <entry>
+            <question>
+                What are pending transactions?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help2.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How long do posted transactions remain viewable?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help3.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What is the cutoff time for internal transfers?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help4.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Can transfers draw on overdraft lines of credit?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help5.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                When will a payment to a credit card account actually happen?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help6.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                When will a payment to an installment or mortgage loan actually happen?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help13.html
+            </answer>
+        </entry>
+    </section>
+    <section label="Bill Pay" linkItemType="BILL_PAY">
+        <entry>
+            <question>
+                How do I enroll in mobile bill payments?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help10.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How do I add new bill payees in mobile bill payments?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help11.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What is the Expedited Bill Payment fee?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help12.html
+            </answer>
+        </entry>
+    </section>
+    <section label="Mobile Deposits" linkItemType="DEPOSIT_SUMMARY">
+        <entry>
+            <question>
+                What is BBVA Compass Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help14.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Who is eligible for Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help15.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Is there a fee to deposit my check with my mobile phone?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help16.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Why don’t I see the Mobile Deposit® feature in the mobile app?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help17.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Mobile Deposit® is supported on the following mobile devices currently:
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help18.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What type of checks can I deposit with Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help19.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                How do I use Multi-Check Deposit in Mobile Banking?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help30.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                When will my Mobile Deposit® funds be available?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help20.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                Where do I check my Mobile Deposit transactions?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help31.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+               What is Mobile Deposit Priority Availability?
+            </question>
+            <answer>
+                https://www.bbvacompass.com/mobile-banking/faq/help32.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+               Who is eligible for Priority Availability?
+            </question>
+            <answer>
+               http://www.bbvacompass.com/mobile-banking/faq/help33.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What are the limits for deposits made using Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help21.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What do I do with my paper checks after I’ve imaged them with Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help22.html
+            </answer>
+        </entry>
+        <entry>
+            <question>
+                What are some tips on using Mobile Deposit®?
+            </question>
+            <answer>
+                http://www.bbvacompass.com/mobile-banking/faq/help23.html
+            </answer>
+        </entry>
+    </section>
+</help>

@@ -1,0 +1,346 @@
+{
+	"version": {
+		"min_version": "4.1.3",
+		"market_version": "4.7.3",
+		"url": "https://itunes.apple.com/us/app/bbva-compass-mobile-banking/id969671652?ls=1&mt=8",
+		"mandatory_update": {
+			"english": {
+				"title": "New Mobile Banking Update",
+				"message": "There is a new version available. Please update to continue using Mobile Banking from BBVA Compass."
+			},
+			"spanish": {
+				"title": "Actualización de Banca Móvil",
+				"message": "Hay una nueva version disponible para su descarga. Favor de actualizar para continuar usando Banca Móvil de BBVA Compass."
+			}
+		},
+		"optional_update": {
+			"english": {
+				"title": "New Mobile Banking Update",
+				"message": "There is a new version available. Please update to continue using Mobile Banking from BBVA Compass."
+			},
+			"spanish": {
+				"title": "Actualización de Banca Móvil",
+				"message": "Hay una nueva version disponible para su descarga. Favor de actualizar para continuar usando Banca Móvil de BBVA Compass."
+			}
+		}
+	},
+	"warning": {
+		"active": "N",
+		"login_available": "Y",
+		"severity": "high",
+		"displaySeconds": "5",
+		"english": {
+			"text": "Online and Mobile Banking will be unavailable Sun 7/24 12-8 am CT. Call 1-800-COMPASS for info."
+		},
+		"spanish": {
+			"text": "Banca en Línea y Móvil no disponibles Domingo 07/24 12AM a 8AM CT. Call 1-800-COMPASS para información."
+		}
+	},
+	"systemOutage": {
+		"active": "N",
+		"english": {
+			"text": "System unavailable. Please try again later.",
+			"title": "",
+			"url": ""
+		},
+		"spanish": {
+			"text": "Sistema no disponible. Por favor, inténtelo más tarde.",
+			"title": "",
+			"url": ""
+		}
+	},
+	"environments": {
+		"forceITE": "N"
+	},
+	"features": {
+		"rateThisApp": {
+			"active": true,
+			"urlLink" : "https://itunes.apple.com/us/app/bbva-compass-mobile-banking/id969671652?ls=1&mt=8"
+		},
+		"quickViews": {
+			"active": "N",
+			"ast": "N"
+		},
+		"bankerDemo": {
+			"idCampaign": "makedeposit"
+		},
+		"mrdc_fee":
+        {
+            "active" : "Y"
+        },
+		"secureMessage": {
+			"active": "N"
+		},
+		"creditCardAct": {
+			"active": "N"
+		},
+		"crm": {
+			"browser_marketing": [{
+				"contentId": "90001",
+				"url": "https://nbacard.bbvacompass.com/",
+				"responseCodePublic": "12",
+				"responseCodePriv": "11"
+			}]
+		},
+		"visaCheckout": {
+			"active": "N"
+		},
+		"whiteLabel": {
+			"active": "Y",
+			"imagesUrl": "https://www.bbvacompass.com/mobile-banking/redesign/whitelabel/"
+		},
+		"affinity": {
+			"active": "N",
+			"imagesUrl": "https://www.bbvacompass.com/mobile-banking/redesign/"
+		},
+		"marketing": {
+			"active": "Y",
+			"imageUrl": "https://www.bbvacompass.com/Images/201607/",
+			"targetUrl": {
+				"active": "Y",
+				"url": "https://www.bbvacompass.com/savings/cd.jsp?icid=07062016_CD_12mos_125APR_MobileBanner"
+			}
+		},
+		"misnap": {
+			"pbp_version": "2.3"
+		},
+		"feedback": {
+			"active": "Y",
+			"menuLink": "Y",
+			"urlMenuLink": "itms-apps://itunes.apple.com/app/id969671652",
+			"english": {
+				"text": "Feedback",
+				"url": "https://secure.opinionlab.com/ccc01/o.asp?id=eXDEJATE"
+			},
+			"spanish": {
+				"text": "Opinión",
+				"url": "https://secure.opinionlab.com/ccc01/o.asp?id=eXDEJATE"
+			}
+		},
+		"callmeback": {
+			"active": "Y",
+			"english": {
+				"text": "Schedule a Call",
+				"url": "http://vh.atentousa.com/vht_bbvacompass_embed/"
+			},
+			"spanish": {
+				"text": "Programar una Llamada",
+				"url": "http://vh.atentousa.com/vht_bbvacompass_embed/"
+			}
+		},
+		"video": {
+			"active": "Y",
+			"index": {
+				"active": "Y",
+				"english": {
+					"text": "Video Tutorials",
+					"url": "https://www.bbvacompass.com/mobile-banking/v4/demo/"
+				},
+				"spanish": {
+					"text": "Videos Tutoriales",
+					"url": "https://www.bbvacompass.com/mobile-banking/v4/demo/"
+				}
+			},
+			"accounts": {
+				"active": "N",
+				"list": []
+			},
+			"billPayment": {
+				"active": "Y",
+				"list": [{
+					"active": "Y",
+					"english": {
+						"text": "View Bill Pay Demo",
+						"url": "https://player.vimeo.com/video/121747203"
+					},
+					"spanish": {
+						"text": "Ver Video: Pago de Facturas",
+						"url": "https://player.vimeo.com/video/121747203"
+					}
+				}, {
+					"active": "N",
+					"english": {
+						"text": "Video tutorial: Picture Bill Pay",
+						"url": "https://player.vimeo.com/video/96593148"
+					},
+					"spanish": {
+						"text": "Video tutorial: Picture Bill Pay",
+						"url": "https://player.vimeo.com/video/96593148"
+					}
+				}]
+			},
+			"mobileDeposit": {
+				"active": "Y",
+				"list": [{
+					"active": "Y",
+					"english": {
+						"text": "View Mobile Deposit Demo",
+						"url": "https://player.vimeo.com/video/121747204"
+					},
+					"spanish": {
+						"text": "Ver Video de Depósito móvil",
+						"url": "https://player.vimeo.com/video/121747204"
+					}
+				}]
+			},
+			"paymentsTransfers": {
+				"active": "Y",
+				"list": [{
+					"active": "Y",
+					"english": {
+						"text": "View Demo",
+						"url": "https://player.vimeo.com/video/121747205"
+					},
+					"spanish": {
+						"text": "Ver Demo",
+						"url": "https://player.vimeo.com/video/121747205"
+					}
+				}, 
+				{
+					"active": "N",
+					"english": {
+						"text": "Video tutorial: Pay people",
+						"url": "https://player.vimeo.com/video/94682151"
+					},
+					"spanish": {
+						"text": "Video tutorial: Pay people",
+						"url": "https://player.vimeo.com/video/94682151"
+					}
+				}]
+			},
+			"alerts": {
+				"active": "N",
+				"list": []
+			},
+			"settings": {
+				"active": "N",
+				"list": []
+			},
+			"rewards": {
+				"active": "N",
+				"list": []
+			},
+			"assistance": {
+				"active": "N",
+				"list": []
+			}
+		}
+	},
+	"releaseNotes": [ 
+	{
+		"englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.6/features/",
+		"publicationDate": "20160429",
+		"spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.6/features/?region=spa",
+		"version": "4.6.0"
+	}, 
+	{
+		"englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.6/features/",
+		"publicationDate": "20160429",
+		"spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.6/features/?region=spa",
+		"version": "4.6.2"
+	}, 
+	{
+		"englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.7/features/apply/",
+		"publicationDate": "20160615",
+		"spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.7/features/apply/?region=spa",
+		"version": "4.7.0",
+		"englishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.7/features/",
+		"spanishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.7/features/?region=spa"
+	}, 
+	{
+		"publicationDate": "20160615",
+		"version": "4.7.1",
+		"englishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.7/features/",
+		"spanishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.7/features/?region=spa"
+	},
+	{
+        "publicationDate": "20160713",
+        "version": "4.8.0",
+        "englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp",
+        "spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp?region=spa",
+		"englishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp",
+		"spanishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp?region=spa"
+	},
+	{
+        "publicationDate": "20160713",
+        "version": "4.8.2",
+        "englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp",
+        "spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp?region=spa",
+		"englishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp",
+		"spanishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp?region=spa"
+	},
+	{
+        "publicationDate": "20160713",
+        "version": "4.8.3",
+        "englishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp",
+        "spanishUrl": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ite.jsp?region=spa",
+		"englishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp",
+		"spanishUrlAST": "https://www.bbvacompass.com/mobile-banking/v4.8/features/ast.jsp?region=spa"
+	}
+	],
+	"legal": {
+		"privacyPolicy": {
+			"english": {
+				"URL": "https://www.bbvacompass.com/compass/policy/mobile-privacy-policy.jsp",
+				"title": "Privacy Policy"
+			},
+			"spanish": {
+				"URL": "https://www.bbvacompass.com/compass/policy/mobile-privacy-policy-esp.jsp",
+				"title": "Política de Privacidad"
+			}
+		}
+	},
+	"assistance": [{
+		"active": "Y",
+		"department": "Customer Service",
+		"english": "Customer Service",
+		"phoneNumber": "800 266 7277",
+		"spanish": "Atención al cliente",
+		"callReason": 1
+	}, {
+		"active": "Y",
+		"department": "Technical Support",
+		"english": "Technical Support",
+		"phoneNumber": "800 273 1057",
+		"spanish": "Soporte técnico",
+		"callReason": 4
+	}, {
+		"active": "Y",
+		"department": "CC Customer Service",
+		"english": "Credit Card Customer Service",
+		"phoneNumber": "800 239 5175",
+		"spanish": "Atención al cliente de tarjeta de crédito",
+		"callReason": 2
+	}, {
+		"active": "Y",
+		"department": "Loan Customer Service",
+		"english": "Loan Customer Service",
+		"phoneNumber": "800 239 1996",
+		"spanish": "Atención al cliente de préstamos",
+		"callReason": 3
+	}, {
+		"active": "Y",
+		"department": "Investment Customer Service",
+		"english": "Investment Customer Service",
+		"phoneNumber": "800 239 1930",
+		"spanish": "Atención al cliente de inversiones"
+	}, {
+		"active": "Y",
+		"department": "Mortgage Customer Service",
+		"english": "New Mortgage & Home Loans",
+		"phoneNumber": "888 853 6346",
+		"spanish": "Atención al cliente de hipoteca"
+	}, {
+		"active": "Y",
+		"department": "International Customer Service",
+		"english": "International Customer Service",
+		"phoneNumber": "866 342 2512",
+		"spanish": "Atención al cliente internacional"
+	}, {
+		"active": "Y",
+		"department": "Small Bus. Customer Service",
+		"english": "Small Bus. Customer Service",
+		"phoneNumber": "800 852 0803",
+		"spanish": "Atención al cliente Small Business"
+	}]
+}
